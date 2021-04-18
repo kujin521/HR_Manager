@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.WebAppMVC", "HR.WebAppMVC\HR.WebAppMVC.csproj", "{020BBEFB-8FAF-4D10-9C08-F323FACADF58}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{6033D322-9375-4B70-AD58-74DDA5140412}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{A10C3A2E-8EF7-4D01-8BF1-FA2F1E6DAEE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{D4996743-A339-43A9-9319-9C1B6CB5FD75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.Api", "HR.Api\HR.Api.csproj", "{C6B997CE-B502-4085-9E9B-44498BC2782F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020BBEFB-8FAF-4D10-9C08-F323FACADF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020BBEFB-8FAF-4D10-9C08-F323FACADF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020BBEFB-8FAF-4D10-9C08-F323FACADF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020BBEFB-8FAF-4D10-9C08-F323FACADF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B997CE-B502-4085-9E9B-44498BC2782F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B997CE-B502-4085-9E9B-44498BC2782F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B997CE-B502-4085-9E9B-44498BC2782F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B997CE-B502-4085-9E9B-44498BC2782F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
